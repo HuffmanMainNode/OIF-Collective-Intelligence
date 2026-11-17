@@ -1,0 +1,9 @@
+{
+  "observations": [
+    {"claim_key":"claim.example-a","source_id":"source.one","position":"supports"},
+    {"claim_key":"claim.example-a","source_id":"source.two","position":"supports"},
+    {"claim_key":"claim.example-a","source_id":"source.three","position":"contradicts"},
+    {"claim_key":"claim.example-b","source_id":"source.one","position":"supports"}
+  ],
+  "fixture_notice": "Synthetic observations for demonstration only."
+}
